@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.idea/
+*.py[cod]
+checkout-failure.png
+reports/
+Data/
+/main.py
+/validator.py
